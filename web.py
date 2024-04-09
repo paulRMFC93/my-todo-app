@@ -8,7 +8,6 @@ def add_todo():
     functions.write_todos(todos)
 
 
-
 todos = functions.get_todos()
 
 st.title("My Web App")
